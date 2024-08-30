@@ -1,3 +1,5 @@
+a little collection of pictures close to my heart for little computer vision demos.
+
 usage:
 
 ```python
